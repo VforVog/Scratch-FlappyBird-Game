@@ -1,1 +1,1 @@
-A flappy Bird game made on scratch!
+A Flappy Bird game made on scratch!
